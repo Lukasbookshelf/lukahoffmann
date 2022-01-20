@@ -298,7 +298,7 @@ h3{
     display: flex;
     width: 50%;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   }
 
   .coloring{
@@ -389,6 +389,42 @@ h3{
 }
 
 .sword{
+  display: block;
+  width: 300px;
+  height: 350px;
+}
+
+.center {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+
+h3{
+  color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2em;
+}
+
+.wood{
+  display: block;
+  width: 300px;
+  height: 350px;
+}
+
+.wood1{
+  display: block;
+  width: 300px;
+  height: 350px;
+}
+
+.wood2{
+  display: block;
+  width: 300px;
+  height: 350px;
+}
+
+.insta1{
   display: block;
   width: 300px;
   height: 350px;
